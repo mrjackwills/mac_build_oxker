@@ -1,0 +1,6 @@
+---
+source: src/ui/draw_blocks/headers.rs
+assertion_line: 357
+expression: setup.terminal.backend()
+---
+"    name          state       status      cpu                 ( h ) show help   "

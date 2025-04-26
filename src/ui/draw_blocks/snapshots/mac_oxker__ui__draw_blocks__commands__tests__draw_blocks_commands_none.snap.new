@@ -1,0 +1,11 @@
+---
+source: src/ui/draw_blocks/commands.rs
+assertion_line: 92
+expression: setup.terminal.backend()
+---
+"╭──────────╮"
+"│          │"
+"│          │"
+"│          │"
+"│          │"
+"╰──────────╯"

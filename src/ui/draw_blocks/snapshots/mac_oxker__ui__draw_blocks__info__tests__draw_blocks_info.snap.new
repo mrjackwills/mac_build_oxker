@@ -1,0 +1,14 @@
+---
+source: src/ui/draw_blocks/info.rs
+assertion_line: 88
+expression: setup.terminal.backend()
+---
+"                                             "
+"                                             "
+"                                             "
+"                                             "
+"                                             "
+"                                             "
+"                                             "
+"                                    test     "
+"                                             "
